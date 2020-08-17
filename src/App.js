@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="London" />
         <footer>
        Created by Eugenia Bonocore and{" "}
-          <a href="https://github.com/didiBonocore/finalproject-weather-app" target="_blank">
+          <a href="https://github.com/didiBonocore/finalproject-weather-app" target="_blank" rel="noopener noreferrer">
       open-sourced on GitHub
           </a>
         </footer>
